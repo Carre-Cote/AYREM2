@@ -1,0 +1,414 @@
+{
+  "version": 4,
+  "name": "AYREM",
+  "levels": [
+    {
+      "id": "level_1789548636712_zaoal",
+      "name": "RDC",
+      "plan": "plans/plan-rdc-ind2-2026-07-02.png",
+      "rooms": [
+        {
+          "id": "r_1789548803491_8ubul",
+          "name": "Garage",
+          "x": 49.922221945116426,
+          "y": 63.53135313531353,
+          "color": "#6f42c1",
+          "content": "\u003ch2>Garage\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Béton\u003c/strong> — brut\u003c/li>\u003cli>\u003cstrong>Enduit\u003c/strong> — crépis\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Porte de garage\u003c/strong> — Aluminium\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Pas de revêtement\u003c/strong> — sol brut\u003c/li>\u003c/ul>",
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1789548819228_ep75y",
+                "name": "Béton",
+                "detail": "brut",
+                "pdf": ""
+              },
+              {
+                "id": "f_1789548872756_u9xue",
+                "name": "Enduit",
+                "detail": "crépis",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1789548886972_eaq3q",
+                "name": "Porte de garage",
+                "detail": "Aluminium",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1789549016252_h6i8x",
+                "name": "Pas de revêtement",
+                "detail": "sol brut",
+                "pdf": ""
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1789549131707_deshn",
+          "name": "Salle de sport",
+          "x": 50.311112219534294,
+          "y": 41.1991199119912,
+          "color": "#ff8080",
+          "content": "\u003ch2>Salle de sport\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Carrelage\u003c/strong> — 60x60\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Splits\u003c/strong> — Pvc\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Spots lumineux\u003c/strong> — Lumière blanche — \u003ca href=\"documents/Pages de PLAN LOC SOL..compressed_signé P1.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1789549178252_59jo4",
+                "name": "Carrelage",
+                "detail": "60x60",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1789549207236_ffbdp",
+                "name": "Splits",
+                "detail": "Pvc",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1789549243340_hy299",
+                "name": "Spots lumineux",
+                "detail": "Lumière blanche",
+                "pdf": "documents/Pages de PLAN LOC SOL..compressed_signé P1.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1789549387996_6k7e5",
+          "name": "Salle d'eau 1",
+          "x": 56.688912719987364,
+          "y": 27.887788778877887,
+          "color": "#0b92f4",
+          "content": "\u003ch2>Salle d&#39;eau 1\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Carrelage\u003c/strong> — 60x60\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Porte douche\u003c/strong> — vitrée\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Douche\u003c/strong> — Comprenant :\u003cbr>-\tReceveur VENETO (Ambiance Bain) 100 x 140 SMO 315 ZBVENETPLUS0100140315, finition Ivory ;\u003cbr>-\tColonne de douche encastrée thermostatique Cox (Paini)\u003cbr>Profondeur d’encastrement : 90 mm - 115 mm\u003cbr>Saillie: 384 mm \u003cbr>Type d&#39;inverseur : intégré à la poignée d&#39;ouverture \u003cbr>Pomme de tête : Métal diam 250 mm\u003cbr>Douchette ABS : 3 jets Flexible longueur : 1,50 m \u003cbr>Débit: 12.0 Litres/ min \u003cbr>Positionnement de la douche de tête : sur le mur de droite en entrant dans la douche \u003cbr>Positionnement de la plaque de commande et de la douchette : Sur le mur du fond en entrant dans la douche\u003cbr>\u003c/li>\u003cli>\u003cstrong>Porte de douche\u003c/strong> — Mindy MI-PFL (TDA) comprenant :\u003cbr>-\tPorte battante IN/OUT\u003cbr>-\tExtension : 106-110cm\u003cbr>-\tHauteur porte 200cm\u003cbr>-\tProfilés chromés\u003cbr>-\tVerre transparent\u003cbr>-\tEpaisseur de verre : 6mm\u003cbr>-\tRéversible\u003cbr>-\tTraitement anti-calcaire — \u003ca href=\"documents/Pages de PLAN LOC FAIENCES..compressed_signé RDJ.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003cli>\u003cstrong>Meuble sanitaire\u003c/strong> — Ensemble meuble sanitaire\u003cbr>Comprenant :\u003cbr>-\tMeuble AKIDO COMPOSABLE (Ambiance Bain) L 120cm\u003cbr>Meuble 2 tiroirs poignées profilés encastrés noirs\u003cbr>Finition plan vasque IVORY 315 carrées 2 vasques SMO carrées\u003cbr>Finition meuble CORTINA EFFET BOIS M723 SMO\u003cbr>Enjoliveur noir ref KITTROPLEINNO KF561202PENOIR 8315 M723\u003cbr>Positionnement de la colonne de rangement : Collée à la cloison de la douche \u003cbr>Positionnement du meuble : collé à la colonne de rangement\u003cbr>-\tColonne de rangement AKIDO (Ambiance Bain)\u003cbr>H179 P30 L30\u003cbr>1 Porte ouverture Droite\u003cbr>Poignée PE profilé encastré NOIR MAT\u003cbr>Finition CORTINA M723\u003cbr>-\tMiroir LUNA (Roca)\u003cbr>Miroir 1200 horizontal L 1200 X 900 MM\u003cbr>Non lumineux\u003cbr>Inclus 2 X anti-buée 400 X 600\u003cbr>-\tMitigeur Bas Cox Black (Paini)\u003cbr>Mitigeur Lavabo noir mat \u003cbr>Hauteur totale : 163 mm \u003cbr>Saillie du bec : 138 mm \u003cbr>Diamètre de perçage : 35 mm \u003cbr>Livré avec vidage clic-clac\u003cbr>\u003c/li>\u003cli>\u003cstrong>WC\u003c/strong> — Comprenant :\u003cbr>-\tBâti-support Ingenio (Siamp) pour WC suspendu, avec réservoir à encastrer, autoportant\u003cbr>-\tPlaque de commande double touche noire SPHÈRE INGENIO 100% Noir mat ref 10003392 \u003cbr>-\tCuvette suspendue sans bride de marque ROCA de type ONA Référence A346687080 + Abattant à frein de chute A801E12081\u003cbr>-\tEnsemble hygiénique Noir compatible toilette suspendu équipé d&#39;une douchette de marque GRB réf 08229102 (Positionnement de la douchette : à droite de face et à gauche en position assise). Compris support intelligent anti-innondation.\u003cbr>\u003c/li>\u003c/ul>",
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1789549474547_9lzqn",
+                "name": "Carrelage",
+                "detail": "60x60",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1789549591803_3zo26",
+                "name": "Porte douche",
+                "detail": "vitrée",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1789549810835_auqt4",
+                "name": "Douche",
+                "detail": "Comprenant :\n-\tReceveur VENETO (Ambiance Bain) 100 x 140 SMO 315 ZBVENETPLUS0100140315, finition Ivory ;\n-\tColonne de douche encastrée thermostatique Cox (Paini)\nProfondeur d’encastrement : 90 mm - 115 mm\nSaillie: 384 mm \nType d'inverseur : intégré à la poignée d'ouverture \nPomme de tête : Métal diam 250 mm\nDouchette ABS : 3 jets Flexible longueur : 1,50 m \nDébit: 12.0 Litres/ min \nPositionnement de la douche de tête : sur le mur de droite en entrant dans la douche \nPositionnement de la plaque de commande et de la douchette : Sur le mur du fond en entrant dans la douche\n",
+                "pdf": ""
+              },
+              {
+                "id": "f_1789549895995_3lxc1",
+                "name": "Porte de douche",
+                "detail": "Mindy MI-PFL (TDA) comprenant :\n-\tPorte battante IN/OUT\n-\tExtension : 106-110cm\n-\tHauteur porte 200cm\n-\tProfilés chromés\n-\tVerre transparent\n-\tEpaisseur de verre : 6mm\n-\tRéversible\n-\tTraitement anti-calcaire",
+                "pdf": "documents/Pages de PLAN LOC FAIENCES..compressed_signé RDJ.pdf"
+              },
+              {
+                "id": "f_1789558755054_q5gvq",
+                "name": "Meuble sanitaire",
+                "detail": "Ensemble meuble sanitaire\nComprenant :\n-\tMeuble AKIDO COMPOSABLE (Ambiance Bain) L 120cm\nMeuble 2 tiroirs poignées profilés encastrés noirs\nFinition plan vasque IVORY 315 carrées 2 vasques SMO carrées\nFinition meuble CORTINA EFFET BOIS M723 SMO\nEnjoliveur noir ref KITTROPLEINNO KF561202PENOIR 8315 M723\nPositionnement de la colonne de rangement : Collée à la cloison de la douche \nPositionnement du meuble : collé à la colonne de rangement\n-\tColonne de rangement AKIDO (Ambiance Bain)\nH179 P30 L30\n1 Porte ouverture Droite\nPoignée PE profilé encastré NOIR MAT\nFinition CORTINA M723\n-\tMiroir LUNA (Roca)\nMiroir 1200 horizontal L 1200 X 900 MM\nNon lumineux\nInclus 2 X anti-buée 400 X 600\n-\tMitigeur Bas Cox Black (Paini)\nMitigeur Lavabo noir mat \nHauteur totale : 163 mm \nSaillie du bec : 138 mm \nDiamètre de perçage : 35 mm \nLivré avec vidage clic-clac\n",
+                "pdf": ""
+              },
+              {
+                "id": "f_1789558788599_85q7y",
+                "name": "WC",
+                "detail": "Comprenant :\n-\tBâti-support Ingenio (Siamp) pour WC suspendu, avec réservoir à encastrer, autoportant\n-\tPlaque de commande double touche noire SPHÈRE INGENIO 100% Noir mat ref 10003392 \n-\tCuvette suspendue sans bride de marque ROCA de type ONA Référence A346687080 + Abattant à frein de chute A801E12081\n-\tEnsemble hygiénique Noir compatible toilette suspendu équipé d'une douchette de marque GRB réf 08229102 (Positionnement de la douchette : à droite de face et à gauche en position assise). Compris support intelligent anti-innondation.\n",
+                "pdf": ""
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "level_1789548643145_pzs6q",
+      "name": "RDJ",
+      "plan": "plans/plan-rdj-ind2-2026-07-02.png",
+      "rooms": [
+        {
+          "id": "r_1789550149131_kznkt",
+          "name": "Cuisine",
+          "x": 58.18847361814267,
+          "y": 65.27832783278328,
+          "color": "#00ffff",
+          "content": "\u003ch2>Cuisine\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Parquet\u003c/strong> — bois\u003c/li>\u003cli>\u003cstrong>Crédence\u003c/strong> — Zinc\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Bac evier\u003c/strong> — Inox\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plénome\u003c/strong> — Retombée 10 cm — \u003ca href=\"documents/MOBALPA - plan technique cuisine.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1789550186330_6m4e7",
+                "name": "Parquet",
+                "detail": "bois",
+                "pdf": ""
+              },
+              {
+                "id": "f_1789550243786_s1klk",
+                "name": "Crédence",
+                "detail": "Zinc",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1789550254955_9bc19",
+                "name": "Bac evier",
+                "detail": "Inox",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1789550347338_owgu6",
+                "name": "Plénome",
+                "detail": "Retombée 10 cm",
+                "pdf": "documents/MOBALPA - plan technique cuisine.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1789550436771_n54uf",
+          "name": "Chambre 1",
+          "x": 50.26133426440881,
+          "y": 27.82178217821782,
+          "color": "#20df25",
+          "content": "\u003ch2>Chambre 1\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Parquet\u003c/strong> — bois chêne clair\u003c/li>\u003cli>\u003cstrong>Tablette niche\u003c/strong> — bois cheêne clair\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Tête de lit\u003c/strong> — placo ba13\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Suspension luminaire\u003c/strong> — Plafond horizontal\u003c/li>\u003c/ul>",
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1789550459066_s1952",
+                "name": "Parquet",
+                "detail": "bois chêne clair",
+                "pdf": ""
+              },
+              {
+                "id": "f_1789550516883_5jnvj",
+                "name": "Tablette niche",
+                "detail": "bois cheêne clair",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1789550532618_cn89x",
+                "name": "Tête de lit",
+                "detail": "placo ba13",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1789550591202_jy8e2",
+                "name": "Suspension luminaire",
+                "detail": "Plafond horizontal",
+                "pdf": ""
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1789550695690_od4c5",
+          "name": "Salle d'eau 2",
+          "x": 57.23024798197704,
+          "y": 27.328932893289327,
+          "color": "#743e0c",
+          "content": "\u003ch2>Salle d&#39;eau 2\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Carrelage\u003c/strong> — 60x60\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Bati-support\u003c/strong> — autoportant\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>WC\u003c/strong> — Comprenant :\u003cbr>-\tBâti-support Ingenio (Siamp) pour WC suspendu, avec réservoir à encastrer, autoportant\u003cbr>-\tPlaque de commande double touche noire SPHÈRE INGENIO 100% Noir mat ref 10003392 \u003cbr>-\tCuvette suspendue sans bride de marque ROCA de type ONA Référence A346687080 + Abattant à frein de chute A801E12081\u003cbr>-\tEnsemble hygiénique Noir compatible toilette suspendu équipé d&#39;une douchette de marque GRB réf 08229102 (Positionnement de la douchette : à droite de face et à gauche en position assise). Compris support intelligent anti-innondation.\u003c/li>\u003cli>\u003cstrong>Douche\u003c/strong> — Comprenant :\u003cbr>-\tReceveur VENETO (Ambiance Bain) 100 x 140 SMO 315 ZBVENETPLUS0100140315, finition Ivory ;\u003cbr>-\tColonne de douche encastrée thermostatique Cox (Paini)\u003cbr>Profondeur d’encastrement : 90 mm - 115 mm\u003cbr>Saillie: 384 mm \u003cbr>Type d&#39;inverseur : intégré à la poignée d&#39;ouverture \u003cbr>Pomme de tête : Métal diam 250 mm\u003cbr>Douchette ABS : 3 jets Flexible longueur : 1,50 m \u003cbr>Débit: 12.0 Litres/ min \u003cbr>Positionnement de la douche de tête : sur le mur de droite en entrant dans la douche \u003cbr>Positionnement de la plaque de commande et de la douchette : Sur le mur du fond en entrant dans la douche\u003c/li>\u003cli>\u003cstrong>Meuble sanitaire\u003c/strong> — Comprenant :\u003cbr>-\tMeuble STRIATO DORE (Cedam)\u003cbr>1 caisson 4 tiroirs de 60cm \u003cbr>1 plan vasque double céramique\u003cbr>Poignées brossées inox\u003cbr>Positionnement du meuble : centré entre la paroi de douche et la fenêtre\u003cbr>-\t2 miroirs ovales 80x50 CAPSULA NOL (GENEXIA) non éclairé avec antibuée\u003cbr>-\tMitigeurs lavabo Cox (Paini) encastré mural\u003cbr>Profondeur d&#39;encastrement : 20 mm mini - 50 mm maxi\u003cbr>Bec longueur : 190 mm \u003cbr>Corps inclus \u003cbr>Débit: 14.0 Litres/ min \u003cbr>Corps d&#39;encastrement inclus — \u003ca href=\"documents/Pages de PLAN LOC FAIENCES..compressed_P2.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1789550773082_42365",
+                "name": "Carrelage",
+                "detail": "60x60",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1789550797778_ixe9v",
+                "name": "Bati-support",
+                "detail": "autoportant",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1789550819418_94fyv",
+                "name": "WC",
+                "detail": "Comprenant :\n-\tBâti-support Ingenio (Siamp) pour WC suspendu, avec réservoir à encastrer, autoportant\n-\tPlaque de commande double touche noire SPHÈRE INGENIO 100% Noir mat ref 10003392 \n-\tCuvette suspendue sans bride de marque ROCA de type ONA Référence A346687080 + Abattant à frein de chute A801E12081\n-\tEnsemble hygiénique Noir compatible toilette suspendu équipé d'une douchette de marque GRB réf 08229102 (Positionnement de la douchette : à droite de face et à gauche en position assise). Compris support intelligent anti-innondation.",
+                "pdf": ""
+              },
+              {
+                "id": "f_1789550844451_yt1pi",
+                "name": "Douche",
+                "detail": "Comprenant :\n-\tReceveur VENETO (Ambiance Bain) 100 x 140 SMO 315 ZBVENETPLUS0100140315, finition Ivory ;\n-\tColonne de douche encastrée thermostatique Cox (Paini)\nProfondeur d’encastrement : 90 mm - 115 mm\nSaillie: 384 mm \nType d'inverseur : intégré à la poignée d'ouverture \nPomme de tête : Métal diam 250 mm\nDouchette ABS : 3 jets Flexible longueur : 1,50 m \nDébit: 12.0 Litres/ min \nPositionnement de la douche de tête : sur le mur de droite en entrant dans la douche \nPositionnement de la plaque de commande et de la douchette : Sur le mur du fond en entrant dans la douche",
+                "pdf": ""
+              },
+              {
+                "id": "f_1789550899578_vfzxr",
+                "name": "Meuble sanitaire",
+                "detail": "Comprenant :\n-\tMeuble STRIATO DORE (Cedam)\n1 caisson 4 tiroirs de 60cm \n1 plan vasque double céramique\nPoignées brossées inox\nPositionnement du meuble : centré entre la paroi de douche et la fenêtre\n-\t2 miroirs ovales 80x50 CAPSULA NOL (GENEXIA) non éclairé avec antibuée\n-\tMitigeurs lavabo Cox (Paini) encastré mural\nProfondeur d'encastrement : 20 mm mini - 50 mm maxi\nBec longueur : 190 mm \nCorps inclus \nDébit: 14.0 Litres/ min \nCorps d'encastrement inclus",
+                "pdf": "documents/Pages de PLAN LOC FAIENCES..compressed_P2.pdf"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "level_1789548646800_mlfj9",
+      "name": "R+1",
+      "plan": "plans/plan-r1-ind2-2026-07-02.png",
+      "rooms": [
+        {
+          "id": "r_1789551129618_gyioo",
+          "name": "Salle polyvalente",
+          "x": 59.48892269579603,
+          "y": 47.689768976897696,
+          "color": "#008080",
+          "content": "\u003ch2>Salle polyvalente\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Parquet\u003c/strong> — bois chêne clair\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Placard\u003c/strong> — menuiserie bois clair\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Baie 3 vantaux\u003c/strong> — menuiserie alu — \u003ca href=\"documents/Pages de PLAN LOC SOL..compressed_signé P2.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1789551212105_0pq0z",
+                "name": "Parquet",
+                "detail": "bois chêne clair",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1789551224473_a8cy7",
+                "name": "Placard",
+                "detail": "menuiserie bois clair",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1789551269265_cchdj",
+                "name": "Baie 3 vantaux",
+                "detail": "menuiserie alu",
+                "pdf": "documents/Pages de PLAN LOC SOL..compressed_signé P2.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1789551447233_uag4j",
+          "name": "Chambre 2",
+          "x": 53.81112468929513,
+          "y": 64.4114411441144,
+          "color": "#f19312",
+          "content": "\u003ch2>Chambre 2\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Parquet\u003c/strong> — bois chêne clair\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>manquette\u003c/strong> — bois chêne clair\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Dressing\u003c/strong> — Pose par le menuisier\u003c/li>\u003c/ul>",
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1789551527913_x3z8p",
+                "name": "Parquet",
+                "detail": "bois chêne clair",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1789551540193_8z1cw",
+                "name": "manquette",
+                "detail": "bois chêne clair",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1789551575377_3ph3y",
+                "name": "Dressing",
+                "detail": "Pose par le menuisier",
+                "pdf": ""
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1789551619665_hs9b0",
+          "name": "Salle d'eau 3",
+          "x": 56.76669077487094,
+          "y": 25.35753575357536,
+          "color": "#ff0000",
+          "content": "\u003ch2>Salle d&#39;eau 3\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Carrelage\u003c/strong> — 60x60\u003c/li>\u003cli>\u003cstrong>Faience\u003c/strong> — 60x30\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Seche serviette\u003c/strong> — electrique\u003c/li>\u003cli>\u003cstrong>VMC\u003c/strong> — silencieux\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Douche\u003c/strong> — Comprenant :\u003cbr>-\tReceveur VENETO (Ambiance Bain) 100 x 140 SMO 315 ZBVENETPLUS0100140315, finition Ivory ;\u003cbr>-\tColonne de douche encastrée thermostatique Cox (Paini)\u003cbr>Profondeur d’encastrement : 90 mm - 115 mm\u003cbr>Saillie: 384 mm \u003cbr>Type d&#39;inverseur : intégré à la poignée d&#39;ouverture \u003cbr>Pomme de tête : Métal diam 250 mm\u003cbr>Douchette ABS : 3 jets Flexible longueur : 1,50 m \u003cbr>Débit: 12.0 Litres/ min \u003cbr>Positionnement de la douche de tête : sur le mur de droite en entrant dans la douche \u003cbr>Positionnement de la plaque de commande et de la douchette : Sur le mur du fond en entrant dans la douche\u003c/li>\u003cli>\u003cstrong>Porte douche\u003c/strong> — Mindy (TDA) comprenant :\u003cbr>-\tParoi fixe Mindy MI-FA L 140xH 80cm sur soubassement 120cm\u003cbr>Profilé CHROME\u003cbr>Verre transparent\u003cbr>Verre épaisseur 6mm\u003cbr>Réversible\u003cbr>Traitement anti-calcaire\u003cbr>-\tPorte battante saloon MI-PSA2 L 100cm\u003cbr>Profilé CHROME\u003cbr>Verre transparent\u003cbr>Verre épaisseur 6mm\u003cbr>Réversible\u003cbr>Traitement anti-calcaire\u003cbr>\u003c/li>\u003cli>\u003cstrong>Seche-serviette\u003c/strong> — Sèche-serviettes électrique sans soufflerie\u003cbr>Adelis Connecté (Atlantic) 500W BLANC BRILLANT 861911 \u003cbr>Dimensions : 556 x 1 027 x 105\u003cbr>Compris fixations et toutes sujétions de pose.\u003cbr>Alimentation électrique à la charge du lot électricité — \u003ca href=\"documents/Pages de PLAN LOC FAIENCES..compressed P3 signé.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1789551683281_578kc",
+                "name": "Carrelage",
+                "detail": "60x60",
+                "pdf": ""
+              },
+              {
+                "id": "f_1789551724849_qje0q",
+                "name": "Faience",
+                "detail": "60x30",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1789551733185_u3fzi",
+                "name": "Seche serviette",
+                "detail": "electrique",
+                "pdf": ""
+              },
+              {
+                "id": "f_1789551803521_c7duw",
+                "name": "VMC",
+                "detail": "silencieux",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1789551800065_7vjvj",
+                "name": "Douche",
+                "detail": "Comprenant :\n-\tReceveur VENETO (Ambiance Bain) 100 x 140 SMO 315 ZBVENETPLUS0100140315, finition Ivory ;\n-\tColonne de douche encastrée thermostatique Cox (Paini)\nProfondeur d’encastrement : 90 mm - 115 mm\nSaillie: 384 mm \nType d'inverseur : intégré à la poignée d'ouverture \nPomme de tête : Métal diam 250 mm\nDouchette ABS : 3 jets Flexible longueur : 1,50 m \nDébit: 12.0 Litres/ min \nPositionnement de la douche de tête : sur le mur de droite en entrant dans la douche \nPositionnement de la plaque de commande et de la douchette : Sur le mur du fond en entrant dans la douche",
+                "pdf": ""
+              },
+              {
+                "id": "f_1789551848849_bb25v",
+                "name": "Porte douche",
+                "detail": "Mindy (TDA) comprenant :\n-\tParoi fixe Mindy MI-FA L 140xH 80cm sur soubassement 120cm\nProfilé CHROME\nVerre transparent\nVerre épaisseur 6mm\nRéversible\nTraitement anti-calcaire\n-\tPorte battante saloon MI-PSA2 L 100cm\nProfilé CHROME\nVerre transparent\nVerre épaisseur 6mm\nRéversible\nTraitement anti-calcaire\n",
+                "pdf": ""
+              },
+              {
+                "id": "f_1789551904968_82h2v",
+                "name": "Seche-serviette",
+                "detail": "Sèche-serviettes électrique sans soufflerie\nAdelis Connecté (Atlantic) 500W BLANC BRILLANT 861911 \nDimensions : 556 x 1 027 x 105\nCompris fixations et toutes sujétions de pose.\nAlimentation électrique à la charge du lot électricité",
+                "pdf": "documents/Pages de PLAN LOC FAIENCES..compressed P3 signé.pdf"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
